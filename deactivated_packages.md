@@ -1,7 +1,8 @@
 >pm disable PACKAGE
-pm enable PACKAGE
+>pm enable PACKAGE
 
->package:com.google.android.youtube
+
+'package:com.google.android.youtube
 package:com.samsung.android.aremoji
 package:com.samsung.android.app.social
 package:com.microsoft.office.excel
@@ -32,4 +33,4 @@ package:com.samsung.android.app.spage
 package:com.sec.android.emergencylauncher
 package:com.samsung.android.visionintelligence
 package:com.facebook.appmanager
-package:com.samsung.android.bixby.agent.dummy
+package:com.samsung.android.bixby.agent.dummy'
