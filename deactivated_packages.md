@@ -1,7 +1,7 @@
-pm disable PACKAGE
+>pm disable PACKAGE
 pm enable PACKAGE
 
-package:com.google.android.youtube
+>package:com.google.android.youtube
 package:com.samsung.android.aremoji
 package:com.samsung.android.app.social
 package:com.microsoft.office.excel
